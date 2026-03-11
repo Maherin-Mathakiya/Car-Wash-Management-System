@@ -1,16 +1,30 @@
-# car
+# Car-Wash-Management-System
+An efficient project to overcome the problem in traditional car wash system.
 
-A new Flutter project.
+## 🎮 Features
 
-## Getting Started
+- 🧾 Customer Registration and Login  
+- 🚗 Add and Manage Car Details  
+- 🧼 Multiple Car Wash Service Types  
+- 📅 Book Car Wash Service  
+- 🔔 Notification System  
+- 📊 Service Status Tracking  
+- 👤 User Profile Management
 
-This project is a starting point for a Flutter application.
+ ## 🛠 Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Flutter
+- Firebase(Database)
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Future Enhancements
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ⏰ Service reminder notification before scheduled car wash
+- 💳 Online payment integration
+- 🚗 Pick and drop service for cars
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📜 License
+
+This project is developed for **academic and learning purposes only**. 
+
